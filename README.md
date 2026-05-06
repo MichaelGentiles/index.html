@@ -23,13 +23,13 @@
   
   <main>
     <h2>What is Ethical Hacking?</h2>
-    <p>Ethical hacking is the authorized practice of probing computer systems and networks to identify vulnerabilities before malicious hackers can exploit them. It involves permission and good intent, aiming to improve security.</p>
+    Ethical hacking is the authorized practice of probing computer systems and networks to identify vulnerabilities before malicious hackers can exploit them. It involves permission and good intent, aiming to improve security.
 
     <h3>Difference from Illegal Hacking</h3>
-    <p>The key difference is permission. Ethical hacking is performed with explicit authorization and good intent, while illegal hacking is unauthorized access with malicious intent.</p>
+    The key difference is permission. Ethical hacking is performed with explicit authorization and good intent, while illegal hacking is unauthorized access with malicious intent.
 
     <h3>Why Organizations Hire Ethical Hackers</h3>
-    <p>Organizations hire ethical hackers to assess their security defenses, find weaknesses, and fix them before attackers do. This proactive approach helps protect sensitive data and systems.</p>
+    Organizations hire ethical hackers to assess their security defenses, find weaknesses, and fix them before attackers do. This proactive approach helps protect sensitive data and systems.
   </main>
 
   <footer>
